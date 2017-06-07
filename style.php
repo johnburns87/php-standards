@@ -1,17 +1,17 @@
-<?php namespace Vendor\Style;
+<?php
 
-use Vendor\Style\bar;
+namespace Vendor\Style;
 
 // Single Line
 
 /**
-* multi line
-* comment
-*/
+ * multi line
+ * comment.
+ */
 $foo = [];
 
 /*
 Additional multi
 line comment
 */
-$foo2=new bar();
+$foo2 = new bar();
